@@ -33,6 +33,11 @@ export default {
           title: 'Blog',
           text: 'Blog',
         },
+         {
+          url: 'https://beian.miit.gov.cn',
+          title: '黔ICP备2021006080号',
+          text: '黔ICP备2021006080号',
+        },
       ],
     }
   },
